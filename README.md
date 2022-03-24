@@ -5,5 +5,3 @@
 - 📫 How to reach me :
   - Phone : +33 06 50 45 56 86 (France)
   - Email : dorianlongepee.pro@gmail.com
-  
-Have fun programming <3
